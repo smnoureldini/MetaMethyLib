@@ -4,7 +4,7 @@ Alpha Review Version for MetaMethyLib.
 This software is still under development. The current release is an alpha one and might not be stable.
 
 This software is written using Microsoft C# and was developed using Microsoft Visual Studio 2019.
-This software uses wrappers that require Python, Kerasa, CUDA abd cuDNN to be installed.
+This software uses wrappers that require Python, Keras, CUDA and cuDNN to be installed.
 
 You need to install the following prerequisities to be able to use all the software features:
 
