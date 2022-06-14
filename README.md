@@ -144,8 +144,8 @@ f.	You can set an early termination threshold to stop the model from over fittin
 
 g.	Finally, click on the **“Start Deep Learning Process”** button to start training the model using Keras Tensorflow. 
 
-h.	After the model has been successfully trained, the application will prompt you to save it on your local storage device. You can cancel this step if you do not want to save the trained model.
-
+h.	After the model has been successfully trained, the application will prompt you to save it on your local storage device. You can cancel this step if you do not want to save the trained model. You can load pre-trained models (or saved models) by clicking on the **"Load MML TF H5 Model"** button.
+ 
 i.	To predict the result of any sample, first click on the entry in the “data sets” itembox and then select the desired sample by clicking on it. Afterwards, click on the **“Predict Selected Entry”** button. 
 
 j.	For convenience, you can also batch predict all the samples in the selected entry, by first selecting the desired entry, followed by clicking on the **“Batch Predict”** button. In this case, after the batch prediction is complete, you will be prompted to save the results on your local storage device.
