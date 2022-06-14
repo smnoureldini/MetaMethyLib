@@ -14,11 +14,12 @@
 3)	Perform the metaheuristic feature selection of DNA methylation data (1st stage)
 4)	Perform the DNN pan-cancer classification (2nd stage).
 
+
 ## Data collection from TCGA portal
 
 To download the DNA methylation data from the TCGA data portal, follow these steps:
 
-a.	Launch the application and press **F12** or navigate to **Tools->”TCGA/GDC Ret**riever”
+a.	Launch the application **MetaMethyLib.exe** and press **F12** or navigate to **Tools->”TCGA/GDC Ret**riever”
 
 ![image](https://user-images.githubusercontent.com/105067187/173533694-c7a02e79-80d4-4dd9-b83e-c2737350dad7.png)
 
