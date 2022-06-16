@@ -41,7 +41,8 @@ To build the unified data set that will be used in the 1st stage, press **F3** o
 
 ![image](https://user-images.githubusercontent.com/105067187/173534298-2c91d3ac-897f-4283-91f0-a0854f197ba2.png)
 
-a.	Click on the **“Process Manifest File”** button and select the created CSV manifest file. Make sure you untick the **“Filter out Normal tissues”** checkbox if you need to process all entries (malignant + benign). 
+a.	Click on the **“Process Manifest File”** button and select the created CSV manifest file. Make sure you untick the **“Filter out Normal tissues”** checkbox if you need to process all entries (malignant + benign).
+ 
 b.	Click on the **“Process Samples”** button and select the folder where the downloaded samples are located (illustrated in the figure below).
 
 ![image](https://user-images.githubusercontent.com/105067187/173534439-242245ec-8927-4154-8ebe-7b0776f7f9f8.png)
